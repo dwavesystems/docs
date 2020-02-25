@@ -1,4 +1,9 @@
-This repo is the source of the [D-Wave Ocean](https://github.com/dwavesystems/docs) software documentation located at https://docs.ocean.dwavesys.com/en/latest
+**NOTICE**: This repository is obsolete. The content is now
+maintained under the
+[dwave-ocean-sdk](https://github.com/dwavesystems/dwave-ocean-sdk)
+account.
+
+This repo was the source of the [D-Wave Ocean](https://github.com/dwavesystems/docs) software documentation located at https://docs.ocean.dwavesys.com/en/latest
 
 Updating content
 ===============================
